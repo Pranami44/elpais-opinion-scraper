@@ -27,7 +27,7 @@ This script scrapes opinion article headlines from El País, translates them to 
    python3.11 -m venv venv
    source venv/bin/activate # On macOS/Linux
 
-   # OR
+   OR
 
    venv311\Scripts\activate # On Windows
 
